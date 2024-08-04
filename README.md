@@ -27,7 +27,7 @@ Uso
 
     bash
 
-git clone https://github.com/tu-usuario/breach-box.git
+git clone https://github.com/AnFerCod3/breach-box.git
 cd breach-box
 
 Dale permisos de ejecución al script:

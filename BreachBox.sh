@@ -214,6 +214,7 @@ escaneo_sqlmap() {
 }
 
 # Main script execution
+clear
 echo -e "${blueColour}===========================${endColour}"
 echo -e "${blueColour}Welcome to Breach Box${endColour}"
 echo -e "${blueColour}===========================${endColour}"

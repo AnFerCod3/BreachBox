@@ -215,7 +215,7 @@ escaneo_sqlmap() {
 
 # Main script execution
 echo -e "${blueColour}===========================${endColour}"
-echo "${blueColour}Welcome to Breach Box${endColour}"
+echo -e "${blueColour}Welcome to Breach Box${endColour}"
 echo -e "${blueColour}===========================${endColour}"
 echo -e "${yellowColour}Enter the target IP address:${endColour}"
 echo -e "${blueColour}===========================${endColour}"

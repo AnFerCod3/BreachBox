@@ -214,6 +214,7 @@ escaneo_sqlmap() {
 }
 
 # Main script execution
+echo "Welcome to Breach Box\n"
 echo -e "${yellowColour}Enter the target IP address:${endColour}"
 read ip
 
